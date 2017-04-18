@@ -10,7 +10,7 @@
 * 商品详情页面中使用了第三方库ScrollViewContainer。
 
 ```
-  ## 演示 
+  ## 演示：
 
 
 ![](https://github.com/zhuchaochao/Images/raw/master/Shopping/recyleview.gif)
