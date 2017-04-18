@@ -8,7 +8,6 @@
 * 加载图片和显示图片，练习使用了glide。
 * 首页使用recyleview实现。
 * 商品详情页面中使用了第三方库ScrollViewContainer。
-
 ```
   ## 演示 
 
